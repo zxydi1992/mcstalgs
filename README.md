@@ -1,2 +1,2 @@
 # mctsalgs
-Study Monte Carlo Search Tree Algorithms
+We study various Monte Carlo tree search (MCTS) methods. 
